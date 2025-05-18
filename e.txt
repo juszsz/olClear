@@ -1,0 +1,7 @@
+INSERT INTO `student_acc` (`studentNo`, `name`, `course`, `section`, `password`) VALUES
+(23322150, 'Marwin Valenzuela', 'Computer Science', '1F', 'e10adc3949ba59abbe56e057f20f883e'),
+(23372034, 'Rowena Casco', 'Information Technology', '1F', 'd8578edf8458ce06fbc5bb76a58c5ca4'),
+(28590982, 'Valenzuela Marin', 'Information System', '2F', 'e99a18c428cb38d5f260853678922e03'),
+(57431266, 'Enzo Ferrari', 'Information Technology', '3F', 'd8578edf8458ce06fbc5bb76a58c5ca4'),
+(85310111, 'Ferruccio Lamborghini', 'Library and Information Science', '3F', 'e10adc3949ba59abbe56e057f20f883e'),
+(96203407, 'Casco Rowena', 'Information System', '2F', 'e99a18c428cb38d5f260853678922e03');
